@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let's make great th
 - 👯 **Looking to collaborate on:** Open source projects, innovative tech solutions, and anything that can make a difference.
 - 🤔 **Looking for help with:** Ideas, feedback, and contributions to make projects more robust and impactful.
 - 💬 **Ask me about:** Software development, AI, tech trends, or even the best coffee spots in town!
-- 📫 **How to reach me:** Feel free to connect via [LinkedIn](https://www.linkedin.com/in/bfuerholz/) or drop me an email at bfuerholz@example.com.
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I once coded a game in 48 hours for a hackathon and won!
+- 📫 **How to reach me:** Feel free to connect via [LinkedIn](https://www.linkedin.com/in/bfuerholz/) or via link in my profile.
 
 ### My GitHub Stats
 
