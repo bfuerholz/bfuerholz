@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let's make great th
 
 ### My GitHub Stats
 
-![Bfuerholz's GitHub stats](https://github-stats-zeta-blue.vercel.app/api?username=bfuerholz&show_icons=true&theme=dark)
+![Bfuerholz's GitHub stats](https://github-stats-zeta-blue.vercel.app/api?username=bfuerholz&show_icons=true&theme=onedark)
 
 ### Top Languages
 
-![Top Languages](https://github-stats-zeta-blue.vercel.app/api/top-langs/?username=bfuerholz&layout=compact&theme=dark)
+![Top Languages](https://github-stats-zeta-blue.vercel.app/api/top-langs/?username=bfuerholz&layout=compact&theme=onedark)
 
 ### Let's Connect!
 
