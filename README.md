@@ -15,11 +15,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let's make great th
 
 ![Bfuerholz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfuerholz&show_icons=true&theme=radical)
 
-![Bfuerholz's GitHub stats](https://github-stats-git-main-projects-c9440faa.vercel.app/api?username=bfuerholz&show_icons=true&theme=radical)
-
-![Bfuerholz's GitHub stats](https://github-stats-git-main-projects-c9440faa.vercel.app/api?username=bfuerholz&show_icons=true&theme=radical)
-
-![Bfuerholz's GitHub stats](https://github-stats-ruby-iota.vercel.app/api?username=bfuerholz&show_icons=true&theme=radical)
+![Bfuerholz's GitHub stats](https://github-stats-zeta-blue.vercel.app/api?username=bfuerholz&show_icons=true&theme=radical)
 
 ### Top Languages
 
