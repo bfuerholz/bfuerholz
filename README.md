@@ -22,8 +22,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-
 ```typescript
 interface Engineer {
   name: string;
@@ -33,16 +31,6 @@ interface Engineer {
   collaboration: string[];
   interests: string[];
   status: () => string;
-  skills: Skill[];
-}
-
-enum Skill {
-  HardwareEngineering = "⚡ Hardware Engineering",
-  EmbeddedSystems = "🔌 Embedded Systems",
-  SoftwareDevelopment = "💻 Software Development",
-  SystemDesign = "🏗️ System Architecture",
-  MachineLearning = "🧠 AI & ML",
-  CloudComputing = "☁️ Cloud Solutions"
 }
 
 const bfuerholz: Engineer = {
@@ -53,15 +41,13 @@ const bfuerholz: Engineer = {
     "🚀 Exciting projects bridging technology and creativity",
     "🧠 Advanced algorithms & machine learning",
     "☁️ Cloud computing solutions",
-    "⚡ Embedded systems & hardware design",
-    "🔧 Full-stack development"
+    "⚡ Embedded systems & hardware design"
   ],
   collaboration: [
     "📦 Open source projects",
     "💡 Innovative tech solutions",
     "🔧 Hardware & software development",
-    "🤝 Meaningful collaborations",
-    "🌐 Global tech community"
+    "🤝 Meaningful collaborations"
   ],
   interests: [
     "Hardware Engineering",
@@ -69,25 +55,14 @@ const bfuerholz: Engineer = {
     "AI & Machine Learning",
     "Tech Trends",
     "Problem Solving",
-    "System Architecture",
-    "IoT & Smart Devices"
-  ],
-  skills: [
-    Skill.HardwareEngineering,
-    Skill.EmbeddedSystems,
-    Skill.SoftwareDevelopment,
-    Skill.SystemDesign,
-    Skill.MachineLearning,
-    Skill.CloudComputing
+    "System Architecture"
   ],
   status: () => "Always learning, always building 🚀"
 };
 
-console.log(`${bfuerholz.name}: ${bfuerholz.status()}`);
-// Output: bfuerholz: Always learning, always building 🚀
+console.log(bfuerholz.status());
+// Output: "Always learning, always building 🚀"
 ```
-
-</div>
 
 ```bash
 $ whoami
@@ -100,20 +75,15 @@ $ uname -a
 Linux bfuerholz 6.0.0-awesome-generic #1 SMP PREEMPT_DYNAMIC
 Hardware Engineer Edition
 
-$ git log --oneline --all --graph --decorate
-* (HEAD -> main) Building innovative solutions
-* (origin/main) Sharing knowledge and code
+$ git log --oneline --all --graph
+* Building innovative solutions
+* Sharing knowledge and code
 * Creating meaningful impact
 * Hardware meets Software
 * Pushing boundaries every day
-* Open source contributions
-* Learning new technologies
 
 $ echo $PASSION
 "Building the future, one commit at a time"
-
-$ sudo rm -rf /proc/sleep
-Sleep removed successfully. Now coding 24/7 🚀
 ```
 
 ---
@@ -133,7 +103,6 @@ Sleep removed successfully. Now coding 24/7 🚀
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🎨 Frameworks & Libraries
 
@@ -141,8 +110,6 @@ Sleep removed successfully. Now coding 24/7 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🔧 Tools & Platforms
 
@@ -154,8 +121,6 @@ Sleep removed successfully. Now coding 24/7 🚀
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -165,7 +130,7 @@ Sleep removed successfully. Now coding 24/7 🚀
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bfuerholz&theme=github-compact&hide_border=true&area=true&height=350&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=8)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bfuerholz&theme=github-compact&hide_border=true&area=true&height=300&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
@@ -173,21 +138,14 @@ Sleep removed successfully. Now coding 24/7 🚀
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfuerholz&theme=github_dark)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfuerholz&theme=github_dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfuerholz&theme=github_dark)
-
 </div>
 
 ---
 
-## 🎯 Current Projects & Workflow
-
-<div align="center">
+## 🎯 Current Projects
 
 ```rust
 // Always in development mode
-use tokio::time::{sleep, Duration};
-
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let engineer = Engineer::new("bfuerholz")
@@ -196,85 +154,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             Skill::EmbeddedSystems,
             Skill::SoftwareDevelopment,
             Skill::SystemDesign,
-            Skill::MachineLearning,
-            Skill::CloudComputing,
         ])
         .with_passions(vec![
             "Building innovative solutions",
             "Open source contributions",
             "Hardware meets Software",
-            "Pushing boundaries",
         ]);
     
-    loop {
-        engineer.think().await?;
-        engineer.design().await?;
-        engineer.build().await?;
-        engineer.test().await?;
-        engineer.deploy().await?;
-        engineer.contribute().await?;
-        engineer.learn().await?;
-        
-        println!("🚀 Cycle complete! Starting next iteration...");
-        sleep(Duration::from_secs(1)).await;
-    }
+    engineer.build().await?;
+    engineer.contribute().await?;
+    engineer.learn().await?;
+    
+    Ok(())
 }
 ```
-
-</div>
-
----
-
-## 💡 Development Philosophy
-
-<div align="center">
-
-```python
-class Engineer:
-    def __init__(self, name):
-        self.name = name
-        self.coffee_consumption = "∞ cups/day"
-        self.sleep_schedule = "What's sleep?"
-        self.motivation = "Building the future"
-        self.mode = "ALWAYS_BUILDING"
-    
-    def code(self):
-        """Main development loop - runs forever"""
-        while True:
-            self.think()
-            self.design()
-            self.build()
-            self.test()
-            self.deploy()
-            self.learn()
-            self.contribute()
-            self.iterate()
-    
-    def think(self):
-        """Analyze problems and design solutions"""
-        return "Problem identified → Solution designed"
-    
-    def build(self):
-        """Transform ideas into reality"""
-        return "Code compiled → System running"
-    
-    def learn(self):
-        """Continuous improvement"""
-        return "New skill acquired → Knowledge expanded"
-    
-    def contribute(self):
-        """Give back to the community"""
-        return "Open source contribution → Community impact"
-    
-    def status(self):
-        return "Always learning, always building 🚀"
-
-bfuerholz = Engineer("bfuerholz")
-print(f"Status: {bfuerholz.status()}")
-bfuerholz.code()  # Runs forever - this is the way
-```
-
-</div>
 
 ---
 
@@ -291,6 +184,32 @@ bfuerholz.code()  # Runs forever - this is the way
 
 ---
 
+## 💡 Fun Facts
+
+```python
+class Engineer:
+    def __init__(self, name):
+        self.name = name
+        self.coffee_consumption = "∞ cups/day"
+        self.sleep_schedule = "What's sleep?"
+        self.motivation = "Building the future"
+    
+    def code(self):
+        while True:
+            self.think()
+            self.build()
+            self.learn()
+            self.contribute()
+    
+    def status(self):
+        return "Always learning, always building 🚀"
+
+bfuerholz = Engineer("bfuerholz")
+bfuerholz.code()  # Runs forever
+```
+
+---
+
 <div align="center">
 
 ### 🔥 Development Status
@@ -304,17 +223,10 @@ bfuerholz.code()  # Runs forever - this is the way
 + Open source contributions
 + Learning new technologies
 + Solving complex problems
-+ Iterating and improving
-+ Building the future
 ```
 
-```ascii
-  ___  __  __  ____  _   _  ____  _   _ 
- / _ \|  \/  ||  _ \| | | |/ ___|| | | |
-| | | | |\/| || |_) | | | |\___ \| |_| |
-| |_| | |  | ||  _ <| |_| | ___) |  _  |
- \___/|_|  |_||_| \_\\___/ |____/|_| |_|
-```
+
+**⭐️ Contributions welcome! Let's build something amazing together. 🚀**
 
 ```javascript
 // Always in development mode
@@ -322,66 +234,12 @@ const life = {
   status: "Always learning",
   mode: "Building awesome things",
   passion: "Hardware & Software Engineering",
-  motto: "Code. Build. Ship. Repeat.",
-  cycle: () => {
-    while(true) {
-      think();
-      design();
-      build();
-      test();
-      deploy();
-      learn();
-      contribute();
-      iterate();
-    }
-  }
+  motto: "Code. Build. Ship. Repeat."
 };
 
 console.log(`Current status: ${life.status}`);
 console.log(`Mode: ${life.mode}`);
-console.log(`Motto: ${life.motto}`);
-life.cycle(); // Infinite loop of awesomeness
-```
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-
-int main(void) {
-    printf("🚀 Hardware Engineer | Tech Enthusiast | Problem Solver\n");
-    printf("Status: Always learning, always building\n");
-    
-    while(1) {
-        think();
-        design();
-        build();
-        test();
-        deploy();
-        learn();
-        contribute();
-        sleep(1); // Brief pause, then repeat
-    }
-    
-    return 0; // Never reached (infinite loop)
-}
-```
-
-**⭐️ Contributions welcome! Let's build something amazing together. 🚀**
-
----
-
-<div align="center">
-
-**Made with ❤️ and ☕ by [bfuerholz](https://github.com/bfuerholz)**
-
-```ascii
-    _____                      _   _             
-   / ____|                    | | | |            
-  | |  __  ___  ___  ___  ___| |_| |__  _ __ ___ 
-  | | |_ |/ _ \/ _ \/ __|/ _ \ __| '_ \| '__/ _ \
-  | |__| |  __/  __/\__ \  __/ |_| | | | | |  __/
-   \_____|\___|\___||___/\___|\__|_| |_|_|  \___|
+// Output: Always learning, Building awesome things
 ```
 
 </div>
