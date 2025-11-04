@@ -1,26 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm thrilled to have you here. Let's make great things together!
+# 👋 Welcome to my GitHub Profile!
 
-### About Me
+**Developer • Tech Enthusiast • Problem Solver**
 
-- 🔭 **Currently working on:** Exciting new projects that bridge the gap between technology and creativity.
-- 🌱 **Currently learning:** Advanced algorithms, machine learning, and cloud computing to push the boundaries of what's possible.
-- 👯 **Looking to collaborate on:** Open source projects, innovative tech solutions, and anything that can make a difference.
-- 🤔 **Looking for help with:** Ideas, feedback, and contributions to make projects more robust and impactful.
-- 💬 **Ask me about:** Software development, AI, tech trends, or even the best coffee spots in town!
-- 📫 **How to reach me:** Feel free to connect via [LinkedIn](https://www.linkedin.com/in/bfuerholz/) or via link in my profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bfuerholz/)
 
-### My GitHub Stats
+</div>
 
-![Bfuerholz's GitHub stats](https://github-readme-stats-gold-tau-73.vercel.app/api?username=bfuerholz&show_icons=true&theme=merko)
+---
 
-### Top Languages
+## ✨ About Me
 
-![Top Languages](https://github-readme-stats-gold-tau-73.vercel.app/api/top-langs/?username=bfuerholz&layout=compact&theme=merko)
+- 🔭 **Currently working on:** Exciting projects that bridge the gap between technology and creativity
+- 🌱 **Currently learning:** Advanced algorithms, machine learning, and cloud computing
+- 👯 **Looking to collaborate on:** Open source projects, innovative tech solutions, and anything that can make a difference
+- 🤔 **Looking for help with:** Ideas, feedback, and contributions to make projects more robust and impactful
+- 💬 **Ask me about:** Software development, AI, tech trends, or anything really!
 
-### Let's Connect!
+---
 
-Feel free to check out my projects, and don’t hesitate to contribute or reach out if you have any ideas or suggestions. Let's create something amazing together!
+## 📊 GitHub Stats
 
-Thanks for visiting! Have a great day! 😊
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-gold-tau-73.vercel.app/api?username=bfuerholz&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats-gold-tau-73.vercel.app/api/top-langs/?username=bfuerholz&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+
+</div>
+
+---
+
+## 🚀 Let's Connect!
+
+<div align="center">
+
+**Feel free to check out my projects, and don't hesitate to contribute or reach out if you have any ideas or suggestions!**
+
+**[💼 LinkedIn](https://www.linkedin.com/in/bfuerholz/)**
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ Created by [bfuerholz](https://github.com/bfuerholz) with ❤️
+
+</div>
