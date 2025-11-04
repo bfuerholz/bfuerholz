@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;Hardware+Engineer+⚡;Tech+Enthusiast+🚀;Problem+Solver+🎯;Code+Architect+💻&center=true&width=700&height=70&size=40&color=00D9FF&vCenter=true&duration=2500&pause=1200&repeat=true">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Welcome+to+my+GitHub+Profile!;Hardware+Engineer+⚡;Tech+Enthusiast+🚀;Problem+Solver+🎯&center=true&width=700&height=70&size=40&color=00D9FF&vCenter=true&duration=2500&pause=1200&repeat=true">
 </div>
 
 <br>
