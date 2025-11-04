@@ -128,11 +128,7 @@ $ echo $PASSION
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bfuerholz&theme=github-compact&hide_border=true&area=true&height=300&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-
-</div>
 
 <div align="center">
 
@@ -169,20 +165,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 ```
 
----
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-**Interested in collaboration or just want to chat? Feel free to reach out!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bfuerholz/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bfuerholz)
-
-</div>
-
----
 
 ## 💡 Fun Facts
 
