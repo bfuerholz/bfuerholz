@@ -165,31 +165,18 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 ```
 
+---
 
+## 🤝 Let's Connect!
 
-## 💡 Fun Facts
+<div align="center">
 
-```python
-class Engineer:
-    def __init__(self, name):
-        self.name = name
-        self.coffee_consumption = "∞ cups/day"
-        self.sleep_schedule = "What's sleep?"
-        self.motivation = "Building the future"
-    
-    def code(self):
-        while True:
-            self.think()
-            self.build()
-            self.learn()
-            self.contribute()
-    
-    def status(self):
-        return "Always learning, always building 🚀"
+**Interested in collaboration or just want to chat? Feel free to reach out!**
 
-bfuerholz = Engineer("bfuerholz")
-bfuerholz.code()  # Runs forever
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bfuerholz/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bfuerholz)
+
+</div>
 
 ---
 
@@ -208,21 +195,6 @@ bfuerholz.code()  # Runs forever
 + Solving complex problems
 ```
 
-
 **⭐️ Contributions welcome! Let's build something amazing together. 🚀**
-
-```javascript
-// Always in development mode
-const life = {
-  status: "Always learning",
-  mode: "Building awesome things",
-  passion: "Hardware & Software Engineering",
-  motto: "Code. Build. Ship. Repeat."
-};
-
-console.log(`Current status: ${life.status}`);
-console.log(`Mode: ${life.mode}`);
-// Output: Always learning, Building awesome things
-```
 
 </div>
